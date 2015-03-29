@@ -4,13 +4,13 @@
 ; ディスクドライブを指定します。（最大4つまで指定することができます。）
 ; "ドライブレター:"
 ; Strage1.ini、Strage2.ini、Strage3.ini、Strage4.iniで使用します。
-disk1 = C:
+disk1 =C:
 ; Strage2.ini、Strage3.ini、Strage4.iniで使用します。
-disk2 = D:
+disk2 =D:
 ; Strage3.ini、Strage4.iniで使用します。
-disk3 = E:
+disk3 =E:
 ; Strage4.iniで使用します。
-disk4 = F:
+disk4 =F:
 
 
 ;--- 東北ずん子ちゃん RSSリーダー用 ---
@@ -32,15 +32,15 @@ HKDRSSURI = http://blog.hackadoll.com/rss
 ; Myoga-TN.net　　　　　　　　　　　　　　　　　：http://myoga-tn.expressweb.jp/feed/
 
 
-;--- Myoga ウェザーメーター用 ---
+;--- Myogaさん ウェザーメーター用 ---
 
 ; Locationにはロケーションコードを指定します。
 ; Weather1.iniで使用します。
-Location = JAXX0085
+Location =JAXX0085
 ; Weather2.iniで使用します。
-Location2 = JAXX0057
+Location2 =JAXX0057
 ; Weather3.iniで使用します。
-Location3 = JAXX0071
+Location3 =JAXX0071
 
 ; 例
 ; 札幌　 : JAXX0078
