@@ -15,32 +15,29 @@ disk4 =F:
 
 ;--- 東北ずん子ちゃん RSSリーダー用 ---
 ; RSSのURIを指定します。
-ZNDRSSURI = http://tohokuzunko.blog.fc2.com/?xml
+ZNDRSSURI = http://pronama.azurewebsites.net/feed/
 
 ;--- ハッカちゃん RSSリーダー用 ---
 ; RSSのURIを指定します。
-HKDRSSURI = http://blog.hackadoll.com/rss
+HKDRSSURI = http://myoga-tn.expressweb.jp/feed/
 
 ; RSS1.0形式（ルートノードがRDF）
-; 東北ずん子　オフィシャルブログ：http://tohokuzunko.blog.fc2.com/?xml
+; -
 
 ; RSS2.0（ルートノードがRSS）
 ; プログラミング生放送　　　　　　　　　　　　　：http://pronama.azurewebsites.net/feed/
-; クラウディア・窓辺 (@Claudia_Azure) のツイート：http://sxp.microsoft.com/feeds/msdntn/claudia_azure_twitter/
-; ユニティちゃんのブログ　　　　　　　　　　　　：http://unity-chan.com/blog/?feed=rss2
-; ハッカドール(Hackadoll) 公式運営ブログ　　　　：http://blog.hackadoll.com/rss
-; Myoga-TN.net　　　　　　　　　　　　　　　　　：http://myoga-tn.expressweb.jp/feed/
+; Choronoir.net（旧Myoga-TN.net） 　　　　　　　：http://myoga-tn.expressweb.jp/feed/
 
 
-;--- Myogaさん ウェザーメーター用 ---
+;--- Myogaさん ウェザーメーター、Niaさん、UVチェッカー用 ---
 
 ; Locationにはロケーションコードを指定します。
 ; Weather1.iniで使用します。
 Location =JAXX0085
 ; Weather2.iniで使用します。
-Location2 =JAXX0057
+Location2 =JAXX0036
 ; Weather3.iniで使用します。
-Location3 =JAXX0071
+Location3 =JAXX0048
 
 ; 例
 ; 札幌　 : JAXX0078
